@@ -1,0 +1,44 @@
+LEMMATIZATION AND POS TAGGING :
+
+Enter text : Tim cries alone in Paris for $100.
+Enter task to perform : 1
+TEXT            LEMMA           POS
+
+Tim             tim             NNP
+cries           cry             VBZ
+alone           alone           RB
+in              in              IN
+Paris           paris           NNP
+for             for             IN
+$               $               $
+100             100             CD
+.               .               .
+
+
+
+NAMED ENTITY RECOGNITION :
+
+Enter text : Tim cries alone in Paris for $100.
+Enter task to perform : 2
+ENTITY          LABEL
+
+Tim             PERSON
+Paris           GPE
+100             MONEY
+
+
+
+SIMILARITY :
+
+Enter text : laptop desktop
+Enter task to perform : 3
+Similarity : 0.8164889
+
+Enter text : dog cat
+Enter task to perform : 3
+Similarity : 0.73448884
+
+Enter text : mobile cheese
+Enter task to perform : 3
+Similarity : 0.6166136
+

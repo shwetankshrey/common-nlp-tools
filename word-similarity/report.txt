@@ -1,0 +1,11 @@
+OUTPUT :
+
+Delhi - India + China : 
+[('Beijing', 0.7975110411643982), ('Shanghai', 0.6384025812149048), ('Beijng', 0.6233852505683899), ('Guangzhou', 0.6154199838638306), ('Shenyang', 0.6146994829177856), ('Chinese', 0.6092808246612549), ('Guangdong', 0.6081506609916687), ('Tongzhou', 0.6061089038848877), ('Bejing', 0.6039618253707886), ('Nanjing', 0.5980162620544434)]
+
+ISRO - India + USA : 
+[('STScI', 0.42706042528152466), ('Orbital_Sciences_Corporation', 0.4269925355911255), ('GPS_IIR', 0.4206993281841278), ('Thales_Alenia', 0.41337308287620544), ('AMSAT', 0.4116375744342804), ('RSC_Energia', 0.4106655716896057), ('Agency_JAXA', 0.410483181476593), ('NOAA_GOES', 0.41036564111709595), ('NROL', 0.4101548194885254), ('NASA', 0.4088004231452942)]
+
+EXPLANATION :
+
+The first question worked as expected and the answer came out to be Beijing. In the second example, there were several counterparts to ISRO in the USA and we get all of them as the output. 

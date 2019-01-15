@@ -1,0 +1,7 @@
+OUTPUT :
+Normalized similarity with different classes    :    0.3579162343552238
+Normalized similarity when same class           :    0.37152736947724696
+
+EXPLANATION :
+
+Same class docs have a higher similarity than different class docs.
